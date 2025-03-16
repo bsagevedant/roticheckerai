@@ -2,6 +2,9 @@
 
 RotiCheckerAI is a fun project aimed at utilizing AI to check the quality of homemade rotis (Indian flatbread).
 
+<img width="1582" alt="Screenshot 2025-03-16 at 7 19 09 PM" src="https://github.com/user-attachments/assets/fa80e594-808f-4173-adee-2e7f6bcfa604" />
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
