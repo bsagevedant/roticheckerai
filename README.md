@@ -4,8 +4,7 @@ RotiCheckerAI is a fun project aimed at utilizing AI to check the quality of hom
 
 <img width="1582" alt="Screenshot 2025-03-16 at 7 19 09 PM" src="https://github.com/user-attachments/assets/fa80e594-808f-4173-adee-2e7f6bcfa604" />
 
-[Screen Recording 2025-03-17 at 3.11.30 AM.mp4.zip](https://github.com/user-attachments/files/19275553/Screen.Recording.2025-03-17.at.3.11.30.AM.mp4.zip)
-
+ 
 ## Table of Contents
 
 - [Introduction](#introduction)
